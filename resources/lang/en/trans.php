@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'login' => 'Login',
+     'mainpage' => 'Home',
+     'dir' => 'ltr',
+     'services' => 'Services',
+     'about' => 'About',
+     'contact' => 'Contact',
+     'create_account' => 'Create an Account',
+     'forgot_password' => 'Forgot Password?',
+     'welcome_message' => '"Health Insurance - Aswan" welcomes you',
+     'other_links' => 'Other Links',
+     'title' => 'Aswan health insurance center',
+     'subPragraph' => 'You can request from your home "your monthly treatment" to receive it for free - requests are submitted for patients delivery throughout the month - but for chronic (monthly) treatment, her request is sent here last week of the month from the date of "monthly treatment exchange" for each patient
+     ',
+     'subPragraph1' => '- In the event of a "lost" or "damaged" or "any problem" with the health insurance card, please click complaints and suggestions and write the full details of the problem with a mobile number available to communicate',
+     'suggestions' => 'Complaints & suggestions',
+     'footer_info' => 'Monthly and chronic treatment delivery service for health insurance patients - Aswan',
+     'copy_right' => 'All rights reserved to the Department of Health Insurance, Aswan',
+     'welcome' => 'Ahlan, :name',
+     'logout' => 'Logout',
+     'profile' => 'Profile',
+     'Register' => 'Register',
+     'Name' => 'Full Name',
+     'email' => 'Email Address',
+     'address' => 'Resdential Address',
+     'idnumber' => 'ID Card Number',
+     'hidnumber' => 'Insurance Card Number',
+     'mobile' => 'Mobile Number',
+     'idphoto' => 'ID Card Image',
+     'healthidphoto' => 'Insurance Card Image',
+     'Password' => 'Password',
+     'Confirm' => 'Confirm Password',
+ 
+];
